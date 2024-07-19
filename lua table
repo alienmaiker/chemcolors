@@ -1,0 +1,19 @@
+local chemcolors = {
+	H = Color3.fromRGB(255, 86, 0),
+	He = Color3.fromRGB(0, 213, 255),
+	N = Color3.fromRGB(0, 32, 255),
+	O = Color3.fromRGB(0, 0, 255),
+	Ne = Color3.fromRGB(92, 0, 255),
+	Xe = Color3.fromRGB(0, 255, 255),
+  	Kr = Color3.fromRGB(60, 0, 255),
+  	Ar = Color3.fromRGB(0, 255, 255),
+  	I = Color3.fromRGB(25, 0, 255),
+  	CH4 = Color3.fromRGB(170, 255, 255),
+  	CO = Color3.fromRGB(0, 255, 255),
+  	CO2 = Color3.fromRGB(230, 255, 255),
+  	N2O = Color3.fromRGB(200, 255, 255),
+  	NO2 = Color3.fromRGB(255, 132, 0),
+  	NH3 = Color3.fromRGB(60, 255, 255),
+  	O3 = Color3.fromRGB(155, 255, 155),
+  	SO2 = Color3.fromRGB(195, 255, 195)
+}
